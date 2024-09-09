@@ -1,4 +1,3 @@
-# PRODIGY_ML_1
 # Housing Price Prediction using TensorFlow
 
 This repository contains a housing price prediction model built using TensorFlow. The model is designed to predict the prices of houses based on various features such as location, size, and other relevant attributes. This project was developed and trained using data from Kaggle.
